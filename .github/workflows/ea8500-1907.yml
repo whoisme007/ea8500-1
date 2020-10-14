@@ -28,7 +28,7 @@ env:
   REPO_BRANCH: 19.07
   AUTHOR: Lienol
   FEEDS_CONF: dev-master-feeds.conf.default.bak
-  CONFIG_FILE: ea8500-19.07.config
+  CONFIG_FILE: ea8500-1907.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: false
